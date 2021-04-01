@@ -1,4 +1,6 @@
-Some code snippets I frequently refer to for ensuring correct usage of PyTorch loss functions.
+Some code snippets I frequently refer to for ensuring correct usage of PyTorch loss functions. Have found the [official documentation](https://pytorch.org/docs/1.5.1/nn.html#loss-functions) to be lacking sufficient 
+clarity at times and also proper examples, so wrote some numpy code for understanding purposes.
+
 
 The two notebooks have the following implementations:
 
@@ -27,8 +29,8 @@ The two notebooks have the following implementations:
 
 ### References
 
-[1] https://pytorch.org/docs/1.5.0/nn.html#loss-functions
+[1] https://pytorch.org/docs/1.5.1/nn.html#loss-functions
 
 ### Contributing
 
-If you find any errors, kindly raise an issue.
+If you find any errors or have any questions, kindly raise an issue.
