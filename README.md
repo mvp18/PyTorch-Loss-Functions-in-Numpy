@@ -18,11 +18,11 @@ The two notebooks have the following implementations:
 - KLDivLoss
 - BCELoss
 - BCEWithLogitsLoss
+- MultiLabelMarginLoss
 - MarginRankingLoss
 - HingeEmbeddingLoss
-- MultiLabelMarginLoss
-- SoftMarginLoss
 - MultiLabelSoftMarginLoss
+- SoftMarginLoss
 - CosineEmbeddingLoss
 - MultiMarginLoss
 - TripletMarginLoss
